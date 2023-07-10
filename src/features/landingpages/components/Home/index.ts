@@ -1,0 +1,7 @@
+export * from './Benefit'
+export * from './Faq'
+export * from './Hero'
+export * from './InternshipProcess'
+export * from './Subscribe'
+export * from './Testimonial'
+export * from './TrustedBy'

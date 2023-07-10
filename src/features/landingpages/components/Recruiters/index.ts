@@ -1,0 +1,5 @@
+export * from './GetStarted'
+export * from './Hero'
+export * from './Steps'
+export * from './Trusted'
+export * from './Why'
